@@ -1,1 +1,6 @@
-#special {}
+#special {
+    background: green;
+}
+div {
+    background-color: white;
+  }
