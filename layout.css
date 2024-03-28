@@ -1,6 +1,17 @@
 #special {
-    background: green;
+    background: #008001;
 }
 div {
     background-color: white;
   }
+
+  figure img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* poistaa ylimääräisen tilan kuvan alapuolelta */
+    margin:  auto; /* keskittää kuvan, jos se on pienempi kuin vanhempi-elementti */
+}
+
+.muoto {
+  background: #D3D3D3;
+}
